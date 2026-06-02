@@ -2,7 +2,7 @@
 **Research Assistant @ Department of Applied Mathematics, Faculty of Mathematics, University of Waterloo**  
 **Office:** MC 6470 / **Email:** m555liu@uwaterloo.ca / **Phone:** +1 226 606 2089
 
-My work
+My current work
 --
 I currently work as a research assistant for Dr. Jun Liu, PhD, at the University of Waterloo. I lead the lab's work on the formal verification mathematics using Lean, a functional programming language and theorem prover. It focuses on translating mathematical concepts, definitions, and proofs from natural language into a formal language that can be verified by a computer. The work combines mathematics proof analysis, formal verification, and functional programming. I work with researchers of all educational backgrounds (professors, post-doctoral fellows, PhD candidates, master's students, and undergraduate students) to advance the lab's understanding of these concepts.
 
