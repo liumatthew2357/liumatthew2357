@@ -4,7 +4,12 @@
 
 My current work
 --
+**Research Assistant**
+_University of Waterloo Department of Applied Mathematics, Hybrid Systems Lab_
+05/2026 - present
 I currently work as a research assistant for Dr. Jun Liu, PhD, at the University of Waterloo. I lead the lab's work on the formal verification mathematics using Lean, a functional programming language and theorem prover. It focuses on translating mathematical concepts, definitions, and proofs from natural language into a formal language that can be verified by a computer. The work combines mathematics proof analysis, formal verification, and functional programming. I work with researchers of all educational backgrounds (professors, post-doctoral fellows, PhD candidates, master's students, and undergraduate students) to advance the lab's understanding of these concepts.
+
+The long-term goal is to formalize the Chow-Rashevskii Theorem. This will take a lot of work, longer than the duration of my current work term, but is a goal that I am passionate about and committed to achieving, as it has not been done before.
 
 Technical Skills
 --
